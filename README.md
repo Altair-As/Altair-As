@@ -1,4 +1,4 @@
-Hi 👋 My name is Sam Alexandrov
+Hi my name is Sam Alexandrov
 ===============================
 
 Full-stack C# developer
